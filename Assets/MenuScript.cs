@@ -14,7 +14,6 @@ public class MenuScript : MonoBehaviour
        Application.Quit();
        Debug.Log("Closing application");
    }
-
     public void Click_ClosePatchNotes(){
        patchNotesWindow.SetActive(false);
        this.transform.gameObject.SetActive(true);

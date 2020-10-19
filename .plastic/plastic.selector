@@ -1,4 +1,4 @@
 repository "AndroidGame_1@KomugikoDev@cloud"
   path "/"
-    smartbranch "/main/[UI] Create Start Menu"                                                                        
+    smartbranch "/main/[UI] Create basic Start Menu including Patch Notes page"                                                                         
      
