@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bdb136c85d6b4544bdddec6b5ab13b6, type: 3}
+  m_Name: Boots
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  type: 1
+  description: Merkury's shoes, now you can move in blink of eye as fast as you want
+    to and whenewer you want to go, feel free to make good use of this boots.
+  stackableSize: 1
+  ItemImage: {fileID: -5852222188412556232, guid: 195fba956258e514e8c9483d8bb4cddf,
+    type: 3}
+  rarity: 5
+  level: 10
+  attackDamage: 0
+  attackSpeed: 0
+  defenceBonus: 100
+  equipmentGenre: 2
+  reqLevel: 20
+  reqStr: 5
+  reqInt: 5
+  reqDex: 25
